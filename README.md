@@ -1,3 +1,3 @@
-NSalaheddine EL majdoub/n
-SALAH/n
+NSalaheddine EL majdoub
+SALAH
 Hello
